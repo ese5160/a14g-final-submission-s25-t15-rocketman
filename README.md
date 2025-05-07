@@ -59,26 +59,6 @@ Future iterations will incorporate the corrected shunt resistor placement direct
 
 To advance Rocketman beyond the proof-of-concept stage, future iterations will focus on integrating the corrected high-side current sensing directly into the PCB layout for a more compact and production-ready design. We also aim to enhance actuator control by incorporating PWM (Pulse Width Modulation) instead of simple ON/OFF GPIO toggling. This will enable  variable current delivery , allowing for fine-grained control such as adjusting fan speeds in response to battery conditions or thermal demands. Additionally, expanding the control logic to support dynamic priority reconfiguration will allow the system to adapt more flexibly in multi-actuator scenarios. Lastly, migrating to a fully soldered and enclosed hardware build will increase system robustness and make it deployment-ready for real-world satellite ground station environments.
 
-### Project Links
-
-
-* **Node-RED Dashboard**
-
-  [http://48.217.67.9:1880/ui](http://48.217.67.9:1880/ui)
-
-  Real-time monitoring and control interface for Rocketman.
-* **A12G GitHub Repository**
-
-  [Rocketman Final Project Repository](https://github.com/ese5160/final-project-t15-rocketman/blob/main/A12G_README.md)
-
-  Contains source code, documentation, and README for setup and deployment.
-* **Altium 365 PCBA Design**
-
-  https://upenn-eselabs.365.altium.com/designs/EA1F541E-8D40-4AF7-8616-4EAEA6857B1D#design
-
-  Access to the full schematic and layout design of the Rocketman hardware.
-
-**Website Link:**
 
 ### Open Source and Acknowledgements
 
@@ -185,6 +165,20 @@ The development of **Rocketman** was supported by a number of tools and platform
 
 ## Codebase
 
-- A link to your final embedded C firmware codebases
-- A link to your Node-RED dashboard code
-- Links to any other software required for the functionality of your device
+* **Node-RED Dashboard**
+
+  [http://48.217.67.9:1880/ui](http://48.217.67.9:1880/ui)
+
+  Real-time monitoring and control interface for Rocketman.
+* **A12G GitHub Repository**
+
+  [Rocketman Final Project Repository](https://github.com/ese5160/final-project-t15-rocketman/blob/main/A12G_README.md)
+
+  Contains source code, documentation, and README for setup and deployment.
+* **Altium 365 PCBA Design**
+
+  https://upenn-eselabs.365.altium.com/designs/EA1F541E-8D40-4AF7-8616-4EAEA6857B1D#design
+
+  Access to the full schematic and layout design of the Rocketman hardware.
+
+**Website Link:**
