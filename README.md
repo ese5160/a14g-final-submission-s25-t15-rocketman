@@ -62,13 +62,13 @@ To advance Rocketman beyond the proof-of-concept stage, future iterations will f
 
 ### Project Links
 
-**Node-RED URL** :
+**Node-RED URL** : 
 
-**A12G Repository Link:**
+**A12G Repository Link:** https://github.com/ese5160/final-project-t15-rocketman/blob/main/A12G_README.md
 
-**Altium 365 PCBA Link** :
+**Altium 365 PCBA Link** : https://upenn-eselabs.365.altium.com/designs/EA1F541E-8D40-4AF7-8616-4EAEA6857B1D?activeDocumentId=Top20Level.SchDoc(1)&variant=[No+Variations]&activeView=SCH&location=[1,99.14,7.44,23.63]#design
 
-**Website Link:**
+**Website Link:** 
 
 ### Open Source and Acknowledgements
 
