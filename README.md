@@ -10,7 +10,7 @@
 
 ## 1. Video Presentation
 
-### Our youtube Video Link:
+### Our youtube Video Link: 
 
 ## 2. Project Summary
 
