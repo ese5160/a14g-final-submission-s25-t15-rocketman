@@ -36,6 +36,8 @@ For hardware demonstration, we implemented the concept using three 5V DC fans co
 
 #### Block Diagram:
 
+![alt text](final_submission_images/BlockDiagram.jpeg)
+
 ### Challenges:
 
 * **Incorrect Shunt Resistor Placement for Current Sensing:**
