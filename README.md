@@ -24,6 +24,18 @@ Rocketman addresses this gap by introducing a dynamic power load balancer tailor
 
 Satellite ground stations operating in remote or power-constrained environments face significant challenges in managing energy consumption effectively. Critical components like communication antennas must operate reliably, while secondary loads such as LEDs or cooling systems need to be intelligently managed to conserve battery life. Traditional systems are often static, lack real-time monitoring, and require manual intervention, which can lead to system inefficiencies, unnecessary energy expenditure, or complete communication failure during power shortages.
 
+### Internet Functionality
+
+* Real-Time Remote Monitoring:
+Sensor data—including current draw per actuator, battery state of charge (SoC), and estimated runtime—is transmitted over MQTT to a cloud-hosted Node-RED dashboard running on a Microsoft Azure Virtual Machine. This allows users to observe system performance from any location with internet access.
+
+* System Alerts and Notifications:
+The system can generate real-time alerts for conditions such as low battery or thermal risk, which are displayed on the dashboard to prompt immediate action.
+
+* Scalability and OTA Support:
+Wi-Fi and internet integration enable future support for Over-the-Air (OTA) firmware updates, allowing system upgrades without physical access to the device.
+
+
 ### Device Functionality
 
 #### Design Overview:
@@ -182,4 +194,6 @@ The development of **Rocketman** was supported by a number of tools and platform
 
   Access to the full schematic and layout design of the Rocketman hardware.
 
-**Website Link:**
+**Website Link:**  
+
+https://ese5160.github.io/a14g-final-submission-s25-t15-rocketman/
