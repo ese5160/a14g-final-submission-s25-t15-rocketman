@@ -141,21 +141,45 @@ The development of **Rocketman** was supported by a number of tools and platform
 
 #### Top View
 
+![alt text](<final_submission_images/PCB - Top view .jpg>)
+
 #### Bottom View
 
+![alt text](<final_submission_images/PCB - Bottom view.jpg>)
+
 #### Thermal Camera Image
+
+![alt text](<final_submission_images/Thermal Image.jpeg>)
 
 #### Altium Board Design
 
 ##### 2D View
 
+###### Ground Plane
+
+![alt text](<final_submission_images/Altium 2D - ground plane.png>)
+
+###### Power Plane
+
+![alt text](<final_submission_images/Altium 2D - power plane.png>)
+
+##### Schematic
+
+![alt text](<final_submission_images/Altium 2D - Schematic.png>)
+
+
 ##### 3D View
+
+![alt text](<final_submission_images/Altium 3D.png>)
 
 #### Node-RED
 
-##### Dashboard
+##### NodeRED Backend
+![alt text](<final_submission_images/NodeRED - Backend.png>)
 
-##### Backend
+##### NodeRED Dashboard
+
+![alt text](<final_submission_images/NodeRED - Dashboard.png>)
 
 #### System Block Diagram
 
