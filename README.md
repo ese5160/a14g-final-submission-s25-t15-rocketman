@@ -36,7 +36,6 @@ For hardware demonstration, we implemented the concept using three 5V DC fans co
 
 #### Block Diagram:
 
-
 ### Challenges:
 
 * **Incorrect Shunt Resistor Placement for Current Sensing:**
@@ -62,13 +61,24 @@ To advance Rocketman beyond the proof-of-concept stage, future iterations will f
 
 ### Project Links
 
-**Node-RED URL** : 
 
-**A12G Repository Link:** https://github.com/ese5160/final-project-t15-rocketman/blob/main/A12G_README.md
+* **Node-RED Dashboard**
 
-**Altium 365 PCBA Link** : https://upenn-eselabs.365.altium.com/designs/EA1F541E-8D40-4AF7-8616-4EAEA6857B1D?activeDocumentId=Top20Level.SchDoc(1)&variant=[No+Variations]&activeView=SCH&location=[1,99.14,7.44,23.63]#design
+  [http://48.217.67.9:1880/ui](http://48.217.67.9:1880/ui)
 
-**Website Link:** 
+  Real-time monitoring and control interface for Rocketman.
+* **A12G GitHub Repository**
+
+  [Rocketman Final Project Repository](https://github.com/ese5160/final-project-t15-rocketman/blob/main/A12G_README.md)
+
+  Contains source code, documentation, and README for setup and deployment.
+* **Altium 365 PCBA Design**
+
+  https://upenn-eselabs.365.altium.com/designs/EA1F541E-8D40-4AF7-8616-4EAEA6857B1D#design
+
+  Access to the full schematic and layout design of the Rocketman hardware.
+
+**Website Link:**
 
 ### Open Source and Acknowledgements
 
@@ -80,7 +90,6 @@ Our project integrates several open-source components, with full respect for the
 * **SparkFun BQ27441 Library:**
 
   The [SparkFun BQ27441 Arduino Library](https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library) served as a valuable reference for implementing the I2C communication and data parsing logic required to interact with the TI BQ27441 fuel gauge.
-
 
 The development of **Rocketman** was supported by a number of tools and platforms that significantly contributed to our system integration, debugging, and monitoring efforts:
 
