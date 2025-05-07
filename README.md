@@ -10,7 +10,7 @@
 
 ## 1. Video Presentation
 
-### Our youtube Video Link: 
+### Our youtube Video Link: https://youtu.be/8DYswh7vf_Q?si=RqyVT2fFKbZEUBEM
 
 ## 2. Project Summary
 
