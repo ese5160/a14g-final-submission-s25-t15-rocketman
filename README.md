@@ -163,7 +163,6 @@ The development of **Rocketman** was supported by a number of tools and platform
 
 ![alt text](<final_submission_images/NodeRED - Dashboard.png>)
 
-#### System Block Diagram
 
 ## Codebase
 
